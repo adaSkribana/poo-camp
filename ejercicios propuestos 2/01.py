@@ -13,7 +13,7 @@ class Perros():
         self._nombre = nuevo_nombre
 
 # Crear un objeto perro1 de la clase Perros
-#objeto = clase("atributo?")
+#objeto = clase("atributo")
 perro1 = Perros("pukki")
 
 # Acceder al nombre del perro usando el getter
