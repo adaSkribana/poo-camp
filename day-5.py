@@ -1,4 +1,4 @@
-class Mi_iterador:
+class MiIterador:
     def __init__(self, datos):
         """
         Constructor de la clase Mi_iterador.
@@ -36,7 +36,7 @@ class Mi_iterador:
             raise StopIteration  # Lanza una excepción indicando que el iterador ha llegado al final de la secuencia
 
 # Crear una instancia de la clase Mi_iterador con una lista de datos
-iterador = Mi_iterador([1, 2, 3, 4, 5])
+iterador = MiIterador([1, 2, 3, 4, 5])
 
 # Utilizar el objeto mi_iterador en un bucle for para iterar sobre los elementos
 for elemento in iterador:

@@ -1,8 +1,8 @@
-class perro:
+class Perro:
     def ladrar(self):
         print("El perro esta ladrando")
-puddle = perro()
-cokker = perro()
+puddle = Perro()
+cokker = Perro()
 puddle.ladrar()
 cokker.ladrar()
 

@@ -1,8 +1,8 @@
-class person:
+class Person:
     pass
 
-idmr1997= person()
-idjs1991 = person()
+idmr1997= Person()
+idjs1991 = Person()
 
 #objeto.atributo = valor 
 idmr1997.nombre = input("Ingresa tu nombre: ")

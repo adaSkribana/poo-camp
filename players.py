@@ -1,11 +1,11 @@
-class playersA:
+class PlayersA:
     ply1= "Messi"
     ply2= "C Ronaldo"
 
-class playersB:
+class PlayersB:
     ply1="Marianne"
     ply2="Ivan"
 
-print(playersA.ply1)
+print(PlayersA.ply1)
 print("V/S")
-print(playersB.ply1)
+print(PlayersB.ply1)
